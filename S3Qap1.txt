@@ -1,0 +1,10 @@
+1. this project took me 1 hour
+
+2. i used a youtube video describing winston and w3 schools
+
+3. i did not ask any of my peers for assistance
+
+4. i did not ask any of my instructors for assistance
+
+5. i feel that this project was no difficult, but it was a great
+   starting point for us to learn more about node.
